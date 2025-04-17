@@ -91,8 +91,4 @@ python manage.py runserver
 
 5. Open multiple browser tabs to simulate different users and start chatting in real-time.
 
-## Acknowledgments
 
-- Special thanks to the Django and Django Channels communities for their excellent documentation and support.
-
----
